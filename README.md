@@ -4,5 +4,5 @@ Nama Kelompok :
 2. Roni Hidayat     311710661
 3. Priyanto         311710360
 4. Mahrus Amin      311710636
-5. Robilly Janeva   311710196
+5. Robilly Jeneva   311710196
 6. Moch Fahrul      311710133
